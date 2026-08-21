@@ -2,9 +2,6 @@
 
 An interactive, executive-level sales dashboard built in Power BI Desktop, analyzing sales, profit, orders, quantity, and profitability across categories, sub-categories, and states.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Measures-blue)
-
 ## Overview
 
 This dashboard gives a single-page executive summary of Superstore sales performance, with slicers for Year, Category, Payment Mode, State, and Sub-Category. All KPI cards and charts respond dynamically to slicer selections.
@@ -102,11 +99,3 @@ Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
 ├── Sales_Dataset.csv                 # Source dataset
 └── README.md                         # This file
 ```
-
-## Author
-
-Dhavanithi S
-
-## License
-
-This project is for educational and portfolio purposes.
